@@ -1,0 +1,33 @@
+################ Building of sqlite database ##############
+-> db_scripts.py builds the skeleton of the sqlite database
+-> _builder.py files read the csv_everscape folder (exported
+	from mysql db), to fill the sqlite db
+~> Be aware that the handling of redundant and inconsistent
+   data is far from trivial:
+	->same timestamp but different position
+	->same rows (mysql had a row id)
+	->not unitary data
+	->inconsistent data
+-> creates everscape.db sqlite database, used afterward 
+   for feature extraction
+###########################################################
+
+Note that the built database will be modified afterward as we
+store more features. Additional features will be stored in
+distinct tables.
+
+To understand the processing and storage of data, please see
+the commentaries in the script files, or the documentation of
+the database.
+
+README: TO BUILD THE DATABASE
+run the db_script.py script
+run the session_builder.py (before other builders)
+run the avatar_builder.py
+run the position_builder.py
+run the car_spawns_builder.py
+
+Note: each one of the builder cleans the tables it uses 
+in database. no need to rerun db_script.py to do some
+cleaning.
+

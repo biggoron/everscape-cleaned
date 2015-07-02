@@ -1,0 +1,362 @@
+2013-11-28T08:42:23.2979679,RequestCarSpawnPoint,Participant00
+2013-11-28T08:42:23.2979679,OnCarTaken,106
+2013-11-28T08:42:23.3603663,ReplyCarSpawnPoint,Player: Participant00| Spawn point: 0
+2013-11-28T08:42:40.9567151,RequestCarSpawnPoint,Participant18
+2013-11-28T08:42:40.9567151,OnCarTaken,106
+2013-11-28T08:42:41.3935039,ReplyCarSpawnPoint,Player: Participant18| Spawn point: 1
+2013-11-28T08:42:45.5117983,RequestCarSpawnPoint,Participant32
+2013-11-28T08:42:45.5741967,OnCarTaken,113
+2013-11-28T08:42:46.1981807,ReplyCarSpawnPoint,Player: Participant32| Spawn point: 2
+2013-11-28T08:42:48.0077343,RequestCarSpawnPoint,Participant09
+2013-11-28T08:42:48.0077343,OnCarTaken,100
+2013-11-28T08:42:48.0701327,RequestCarSpawnPoint,Participant15
+2013-11-28T08:42:48.0701327,OnCarTaken,100
+2013-11-28T08:42:48.3197263,RequestCarSpawnPoint,Participant45
+2013-11-28T08:42:48.3197263,OnCarTaken,100
+2013-11-28T08:42:49.0685071,RequestCarSpawnPoint,Participant03
+2013-11-28T08:42:49.0685071,OnCarTaken,106
+2013-11-28T08:42:49.3804991,ReplyCarSpawnPoint,Player: Participant09| Spawn point: 3
+2013-11-28T08:42:49.7548895,RequestCarSpawnPoint,Participant15
+2013-11-28T08:42:49.7548895,ReplyCarSpawnPoint,Player: Participant15| Spawn point: 4
+2013-11-28T08:42:49.7548895,ReplyCarSpawnPoint,Player: Participant45| Spawn point: 5
+2013-11-28T08:42:50.3164751,ReplyCarSpawnPoint,Player: Participant03| Spawn point: 6
+2013-11-28T08:42:50.3164751,OnCarTaken,100
+2013-11-28T08:42:50.5036703,ReplyCarSpawnPoint,Player: Participant15| Spawn point: 7
+2013-11-28T08:42:54.6219647,RequestCarSpawnPoint,Participant17
+2013-11-28T08:42:54.6219647,OnCarTaken,100
+2013-11-28T08:42:54.7467615,RequestCarSpawnPoint,Participant36
+2013-11-28T08:42:54.7467615,OnCarTaken,118
+2013-11-28T08:42:55.3083471,RequestCarSpawnPoint,Participant04
+2013-11-28T08:42:55.3083471,OnCarTaken,106
+2013-11-28T08:42:55.5579407,ReplyCarSpawnPoint,Player: Participant17| Spawn point: 8
+2013-11-28T08:42:55.5579407,ReplyCarSpawnPoint,Player: Participant36| Spawn point: 9
+2013-11-28T08:42:56.0571279,RequestCarSpawnPoint,Participant10
+2013-11-28T08:42:56.0571279,OnCarTaken,100
+2013-11-28T08:42:56.4939167,ReplyCarSpawnPoint,Player: Participant04| Spawn point: 10
+2013-11-28T08:42:57.7418847,ReplyCarSpawnPoint,Player: Participant10| Spawn point: 11
+2013-11-28T08:42:58.0538767,RequestCarSpawnPoint,Participant11
+2013-11-28T08:42:58.0538767,OnCarTaken,110
+2013-11-28T08:42:59.2394463,ReplyCarSpawnPoint,Player: Participant11| Spawn point: 0
+2013-11-28T08:42:59.8010319,RequestCarSpawnPoint,Participant19
+2013-11-28T08:42:59.8010319,OnCarTaken,100
+2013-11-28T08:42:59.9882271,RequestCarSpawnPoint,Participant48
+2013-11-28T08:42:59.9882271,OnCarTaken,116
+2013-11-28T08:43:00.6122111,ReplyCarSpawnPoint,Player: Participant19| Spawn point: 1
+2013-11-28T08:43:00.6122111,ReplyCarSpawnPoint,Player: Participant48| Spawn point: 2
+2013-11-28T08:43:01.3609919,RequestCarSpawnPoint,Participant13
+2013-11-28T08:43:01.3609919,OnCarTaken,104
+2013-11-28T08:43:01.7353823,RequestCarSpawnPoint,Participant19
+2013-11-28T08:43:01.7353823,OnCarTaken,116
+2013-11-28T08:43:01.8601791,RequestCarSpawnPoint,Participant41
+2013-11-28T08:43:01.8601791,OnCarTaken,118
+2013-11-28T08:43:02.2345695,ReplyCarSpawnPoint,Player: Participant13| Spawn point: 3
+2013-11-28T08:43:02.4841631,RequestCarSpawnPoint,Participant38
+2013-11-28T08:43:02.5777607,OnCarTaken,104
+2013-11-28T08:43:02.9209519,ReplyCarSpawnPoint,Player: Participant19| Spawn point: 4
+2013-11-28T08:43:02.9209519,ReplyCarSpawnPoint,Player: Participant41| Spawn point: 5
+2013-11-28T08:43:02.9209519,ReplyCarSpawnPoint,Player: Participant38| Spawn point: 6
+2013-11-28T08:43:05.1048959,RequestCarSpawnPoint,Participant40
+2013-11-28T08:43:05.1048959,OnCarTaken,100
+2013-11-28T08:43:05.4792863,RequestCarSpawnPoint,Participant21
+2013-11-28T08:43:05.7288799,OnCarTaken,106
+2013-11-28T08:43:05.9160751,ReplyCarSpawnPoint,Player: Participant40| Spawn point: 7
+2013-11-28T08:43:06.0408719,RequestCarSpawnPoint,Participant02
+2013-11-28T08:43:06.0408719,OnCarTaken,100
+2013-11-28T08:43:06.2904655,ReplyCarSpawnPoint,Player: Participant21| Spawn point: 8
+2013-11-28T08:43:06.7896527,ReplyCarSpawnPoint,Player: Participant02| Spawn point: 9
+2013-11-28T08:43:06.8520511,RequestCarSpawnPoint,Participant33
+2013-11-28T08:43:06.8520511,OnCarTaken,123
+2013-11-28T08:43:07.6008319,RequestCarSpawnPoint,Participant33
+2013-11-28T08:43:07.6008319,OnCarTaken,101
+2013-11-28T08:43:07.7256287,ReplyCarSpawnPoint,Player: Participant33| Spawn point: 10
+2013-11-28T08:43:08.5992063,ReplyCarSpawnPoint,Player: Participant33| Spawn point: 11
+2013-11-28T08:43:10.0967679,RequestCarSpawnPoint,Participant12
+2013-11-28T08:43:10.0967679,OnCarTaken,123
+2013-11-28T08:43:10.9703455,RequestCarSpawnPoint,Participant12
+2013-11-28T08:43:10.9703455,OnCarTaken,101
+2013-11-28T08:43:11.2199391,ReplyCarSpawnPoint,Player: Participant12| Spawn point: 0
+2013-11-28T08:43:11.7191263,RequestCarSpawnPoint,Participant35
+2013-11-28T08:43:11.7191263,OnCarTaken,108
+2013-11-28T08:43:11.9687199,RequestCarSpawnPoint,Participant43
+2013-11-28T08:43:11.9687199,OnCarTaken,118
+2013-11-28T08:43:11.9687199,RequestCarSpawnPoint,Participant34
+2013-11-28T08:43:11.9687199,OnCarTaken,116
+2013-11-28T08:43:12.0311183,ReplyCarSpawnPoint,Player: Participant12| Spawn point: 1
+2013-11-28T08:43:12.4679071,RequestCarSpawnPoint,Participant34
+2013-11-28T08:43:12.4679071,OnCarTaken,117
+2013-11-28T08:43:12.6551023,ReplyCarSpawnPoint,Player: Participant35| Spawn point: 2
+2013-11-28T08:43:13.0918911,ReplyCarSpawnPoint,Player: Participant43| Spawn point: 3
+2013-11-28T08:43:13.1542895,ReplyCarSpawnPoint,Player: Participant34| Spawn point: 4
+2013-11-28T08:43:13.4038831,ReplyCarSpawnPoint,Player: Participant34| Spawn point: 5
+2013-11-28T08:43:16.3366079,RequestCarSpawnPoint,Participant16
+2013-11-28T08:43:16.3366079,OnCarTaken,100
+2013-11-28T08:43:16.8357951,RequestCarSpawnPoint,Participant37
+2013-11-28T08:43:16.8357951,OnCarTaken,115
+2013-11-28T08:43:17.0853887,RequestCarSpawnPoint,Participant22
+2013-11-28T08:43:17.0853887,OnCarTaken,106
+2013-11-28T08:43:17.0853887,ReplyCarSpawnPoint,Player: Participant16| Spawn point: 6
+2013-11-28T08:43:17.5845759,ReplyCarSpawnPoint,Player: Participant37| Spawn point: 7
+2013-11-28T08:43:17.5845759,ReplyCarSpawnPoint,Player: Participant22| Spawn point: 8
+2013-11-28T08:43:18.0837631,RequestCarSpawnPoint,Participant01
+2013-11-28T08:43:18.0837631,OnCarTaken,103
+2013-11-28T08:43:18.5829503,RequestCarSpawnPoint,Participant06
+2013-11-28T08:43:18.5829503,OnCarTaken,106
+2013-11-28T08:43:18.5829503,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 9
+2013-11-28T08:43:19.2693327,ReplyCarSpawnPoint,Player: Participant06| Spawn point: 10
+2013-11-28T08:43:19.8309183,RequestCarSpawnPoint,Participant07
+2013-11-28T08:43:19.8309183,OnCarTaken,103
+2013-11-28T08:43:20.7044959,ReplyCarSpawnPoint,Player: Participant07| Spawn point: 11
+2013-11-28T08:43:22.0148623,RequestCarSpawnPoint,Participant20
+2013-11-28T08:43:22.0148623,OnCarTaken,100
+2013-11-28T08:43:23.0132367,ReplyCarSpawnPoint,Player: Participant20| Spawn point: 0
+2013-11-28T08:43:46.2878399,RequestCarSpawnPoint,Participant44
+2013-11-28T08:43:46.2878399,OnCarTaken,106
+2013-11-28T08:43:46.7870271,ReplyCarSpawnPoint,Player: Participant44| Spawn point: 1
+2013-11-28T08:43:48.8461743,RequestCarSpawnPoint,Participant46
+2013-11-28T08:43:48.8461743,OnCarTaken,103
+2013-11-28T08:43:50.0317439,ReplyCarSpawnPoint,Player: Participant46| Spawn point: 2
+2013-11-28T08:43:58.8455179,RequestCarSpawnPoint,Participant14
+2013-11-28T08:43:58.8455179,OnCarTaken,118
+2013-11-28T08:44:00.0310875,ReplyCarSpawnPoint,Player: Participant14| Spawn point: 3
+2013-11-28T08:44:08.5172699,RequestCarSpawnPoint,Participant42
+2013-11-28T08:44:08.5172699,OnCarTaken,110
+2013-11-28T08:44:09.1412539,ReplyCarSpawnPoint,Player: Participant42| Spawn point: 4
+2013-11-28T08:44:19.0625995,RequestTrainSeat,Participant00
+2013-11-28T08:44:19.3121931,ReplyTrainSeat,Player: Participant00| Spawn point: -1
+2013-11-28T08:44:28.9839451,RequestTrainSeat,Participant00
+2013-11-28T08:44:29.9199211,ReplyTrainSeat,Player: Participant00| Spawn point: -1
+2013-11-28T08:44:36.3469563,OnArrivedAtConcert,\N
+2013-11-28T08:44:40.2780555,OnArrivedAtConcert,\N
+2013-11-28T08:44:41.7132187,OnArrivedAtConcert,\N
+2013-11-28T08:44:43.5227723,OnArrivedAtConcert,\N
+2013-11-28T08:44:44.5835451,OnArrivedAtConcert,\N
+2013-11-28T08:44:45.8939115,RequestCarSpawnPoint,Participant47
+2013-11-28T08:44:45.8939115,OnCarTaken,118
+2013-11-28T08:44:46.5178955,ReplyCarSpawnPoint,Player: Participant47| Spawn point: 5
+2013-11-28T08:44:46.9546843,OnArrivedAtConcert,\N
+2013-11-28T08:44:51.6345643,OnArrivedAtConcert,\N
+2013-11-28T08:44:59.6215595,OnArrivedAtConcert,\N
+2013-11-28T08:45:00.6823323,OnArrivedAtConcert,\N
+2013-11-28T08:45:02.6790811,OnArrivedAtConcert,\N
+2013-11-28T08:45:03.7398539,OnArrivedAtConcert,\N
+2013-11-28T08:45:04.1142443,OnArrivedAtConcert,\N
+2013-11-28T08:45:05.2374155,OnArrivedAtConcert,\N
+2013-11-28T08:45:06.9221723,OnArrivedAtConcert,\N
+2013-11-28T08:45:10.1668891,OnArrivedAtConcert,\N
+2013-11-28T08:45:13.3492075,OnArrivedAtConcert,\N
+2013-11-28T08:45:14.2227851,OnArrivedAtConcert,\N
+2013-11-28T08:45:26.1408795,OnArrivedAtConcert,\N
+2013-11-28T08:45:28.3248235,OnArrivedAtConcert,\N
+2013-11-28T08:45:28.8240107,OnArrivedAtConcert,\N
+2013-11-28T08:45:29.8223851,OnArrivedAtConcert,\N
+2013-11-28T08:45:31.0079547,OnArrivedAtConcert,\N
+2013-11-28T08:45:32.7551099,OnArrivedAtConcert,\N
+2013-11-28T08:45:34.1278747,OnArrivedAtConcert,\N
+2013-11-28T08:45:37.3101931,OnForceAssistConcert,\N
+2013-11-28T08:45:40.6797067,OnForceAssistConcert,\N
+2013-11-28T08:45:41.9276747,OnForceAssistConcert,\N
+2013-11-28T08:45:44.0492203,OnForceAssistConcert,\N
+2013-11-28T08:45:45.0475947,OnForceAssistConcert,\N
+2013-11-28T08:45:47.6059291,OnForceAssistConcert,\N
+2013-11-28T08:45:52.2234107,OnForceAssistConcert,\N
+2013-11-28T08:46:00.0856091,OnForceAssistConcert,\N
+2013-11-28T08:46:01.1463819,OnForceAssistConcert,\N
+2013-11-28T08:46:03.0807323,OnForceAssistConcert,\N
+2013-11-28T08:46:04.0791067,OnForceAssistConcert,\N
+2013-11-28T08:46:04.5158955,OnForceAssistConcert,\N
+2013-11-28T08:46:06.0134571,OnForceAssistConcert,\N
+2013-11-28T08:46:07.1990267,OnForceAssistConcert,\N
+2013-11-28T08:46:11.0053291,OnForceAssistConcert,\N
+2013-11-28T08:46:13.5012651,OnForceAssistConcert,\N
+2013-11-28T08:46:14.3124443,OnForceAssistConcert,\N
+2013-11-28T08:46:14.9988267,OnEarthquakeStarted,Train: 120| Helicopter: 245| Last Tsunami: 265
+2013-11-28T08:46:26.5425307,OnForceAssistConcert,\N
+2013-11-28T08:46:28.6016779,OnForceAssistConcert,\N
+2013-11-28T08:46:29.2256619,OnForceAssistConcert,\N
+2013-11-28T08:46:30.5984267,OnForceAssistConcert,\N
+2013-11-28T08:46:31.4096059,OnForceAssistConcert,\N
+2013-11-28T08:46:33.5311515,OnForceAssistConcert,\N
+2013-11-28T08:46:34.9039163,OnForceAssistConcert,\N
+2013-11-28T08:47:17.9588123,RequestCarSpawnPoint,Participant37
+2013-11-28T08:47:17.9588123,OnCarTaken,102
+2013-11-28T08:47:18.7075931,ReplyCarSpawnPoint,Player: Participant37| Spawn point: 0
+2013-11-28T08:47:19.3315771,RequestCarSpawnPoint,Participant43
+2013-11-28T08:47:19.3315771,OnCarTaken,122
+2013-11-28T08:47:19.5811707,RequestCarSpawnPoint,Participant11
+2013-11-28T08:47:19.8307643,OnCarTaken,122
+2013-11-28T08:47:20.5171467,RequestCarSpawnPoint,Participant44
+2013-11-28T08:47:20.5171467,OnCarTaken,122
+2013-11-28T08:47:21.0163339,ReplyCarSpawnPoint,Player: Participant43| Spawn point: 1
+2013-11-28T08:47:21.0163339,ReplyCarSpawnPoint,Player: Participant11| Spawn point: 2
+2013-11-28T08:47:21.0163339,ReplyCarSpawnPoint,Player: Participant44| Spawn point: 3
+2013-11-28T08:47:24.0738555,RequestCarSpawnPoint,Participant06
+2013-11-28T08:47:24.0738555,OnCarTaken,112
+2013-11-28T08:47:24.5730427,RequestCarSpawnPoint,Participant10
+2013-11-28T08:47:24.5730427,OnCarTaken,112
+2013-11-28T08:47:25.3218235,ReplyCarSpawnPoint,Player: Participant06| Spawn point: 4
+2013-11-28T08:47:25.3218235,ReplyCarSpawnPoint,Player: Participant10| Spawn point: 5
+2013-11-28T08:47:26.8193851,RequestCarSpawnPoint,Participant33
+2013-11-28T08:47:26.8193851,OnCarTaken,125
+2013-11-28T08:47:27.8177595,ReplyCarSpawnPoint,Player: Participant33| Spawn point: 6
+2013-11-28T08:47:28.6913371,RequestCarSpawnPoint,Participant45
+2013-11-28T08:47:28.6913371,OnCarTaken,105
+2013-11-28T08:47:28.7537355,RequestCarSpawnPoint,Participant34
+2013-11-28T08:47:28.7537355,OnCarTaken,114
+2013-11-28T08:47:28.9409307,RequestCarSpawnPoint,Participant01
+2013-11-28T08:47:28.9409307,OnCarTaken,114
+2013-11-28T08:47:29.8145083,ReplyCarSpawnPoint,Player: Participant45| Spawn point: 7
+2013-11-28T08:47:29.8145083,ReplyCarSpawnPoint,Player: Participant34| Spawn point: 8
+2013-11-28T08:47:29.8145083,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 9
+2013-11-28T08:47:31.1248747,RequestCarSpawnPoint,Participant32
+2013-11-28T08:47:31.1248747,OnCarTaken,124
+2013-11-28T08:47:31.8736555,ReplyCarSpawnPoint,Player: Participant32| Spawn point: 10
+2013-11-28T08:47:32.9968267,RequestTrainSeat,Participant15
+2013-11-28T08:47:34.3071931,ReplyTrainSeat,Player: Participant15| Spawn point: 0
+2013-11-28T08:47:34.4943883,RequestTrainSeat,Participant21
+2013-11-28T08:47:35.4303643,ReplyTrainSeat,Player: Participant21| Spawn point: 1
+2013-11-28T08:47:36.1167467,RequestCarSpawnPoint,Participant38
+2013-11-28T08:47:36.1167467,OnCarTaken,111
+2013-11-28T08:47:37.7391051,ReplyCarSpawnPoint,Player: Participant38| Spawn point: 11
+2013-11-28T08:47:42.4189851,RequestTrainSeat,Participant36
+2013-11-28T08:47:42.7309771,ReplyTrainSeat,Player: Participant36| Spawn point: 2
+2013-11-28T08:47:43.6045547,OnTsunamiLaunched,Wave: 0| Delay: 120| Duration: 30| WaterDelay: 25
+2013-11-28T08:47:44.2909371,RequestTrainSeat,Participant41
+2013-11-28T08:47:45.3517099,ReplyTrainSeat,Player: Participant41| Spawn point: 3
+2013-11-28T08:47:47.5356539,OnBridgeTouched,\N
+2013-11-28T08:47:48.9708171,RequestCarSpawnPoint,Participant00
+2013-11-28T08:47:48.9708171,OnCarTaken,109
+2013-11-28T08:47:49.9691915,RequestTrainSeat,Participant04
+2013-11-28T08:47:50.0939883,ReplyCarSpawnPoint,Player: Participant00| Spawn point: 0
+2013-11-28T08:47:50.8427691,OnBridgeTouched,\N
+2013-11-28T08:47:50.9675659,ReplyTrainSeat,Player: Participant04| Spawn point: 4
+2013-11-28T08:47:52.2779323,RequestTrainSeat,Participant03
+2013-11-28T08:47:53.3387051,RequestTrainSeat,Participant13
+2013-11-28T08:47:53.8378923,ReplyTrainSeat,Player: Participant03| Spawn point: 5
+2013-11-28T08:47:53.8378923,ReplyTrainSeat,Player: Participant13| Spawn point: 6
+2013-11-28T08:47:56.0842347,OnBridgeTouched,\N
+2013-11-28T08:47:57.6441947,OnBridgeCrossed,\N
+2013-11-28T08:48:01.5752939,RequestCarSpawnPoint,Participant16
+2013-11-28T08:48:01.5752939,OnCarTaken,121
+2013-11-28T08:48:01.7624891,OnBridgeCrossed,\N
+2013-11-28T08:48:03.0104571,ReplyCarSpawnPoint,Player: Participant16| Spawn point: 1
+2013-11-28T08:48:06.4423691,OnBridgeCrossed,\N
+2013-11-28T08:48:08.5639147,RequestCarSpawnPoint,Participant18
+2013-11-28T08:48:08.5639147,OnCarTaken,119
+2013-11-28T08:48:08.6263131,RequestCarSpawnPoint,Participant35
+2013-11-28T08:48:08.6263131,OnCarTaken,119
+2013-11-28T08:48:09.3126955,ReplyCarSpawnPoint,Player: Participant18| Spawn point: 2
+2013-11-28T08:48:09.3126955,ReplyCarSpawnPoint,Player: Participant35| Spawn point: 3
+2013-11-28T08:48:09.4998907,RequestCarSpawnPoint,Participant07
+2013-11-28T08:48:09.4998907,OnCarTaken,119
+2013-11-28T08:48:09.7494843,ReplyCarSpawnPoint,Player: Participant07| Spawn point: 4
+2013-11-28T08:48:12.4950139,RequestTrainSeat,Participant47
+2013-11-28T08:48:12.4950139,RequestCarSpawnPoint,Participant39
+2013-11-28T08:48:12.4950139,OnCarTaken,115
+2013-11-28T08:48:13.2437947,ReplyTrainSeat,Player: Participant47| Spawn point: 7
+2013-11-28T08:48:13.2437947,ReplyCarSpawnPoint,Player: Participant39| Spawn point: 5
+2013-11-28T08:48:17.6740811,RequestTrainSeat,Participant12
+2013-11-28T08:48:17.9860731,ReplyTrainSeat,Player: Participant12| Spawn point: 8
+2013-11-28T08:48:18.7972523,RequestCarSpawnPoint,Participant14
+2013-11-28T08:48:18.7972523,OnCarTaken,113
+2013-11-28T08:48:19.5460331,ReplyCarSpawnPoint,Player: Participant14| Spawn point: 6
+2013-11-28T08:48:24.7874987,RequestTrainSeat,Participant22
+2013-11-28T08:48:25.4738811,ReplyTrainSeat,Player: Participant22| Spawn point: 9
+2013-11-28T08:48:26.0354667,RequestTrainSeat,Participant09
+2013-11-28T08:48:26.6594507,RequestCarSpawnPoint,Participant20
+2013-11-28T08:48:26.6594507,OnCarTaken,107
+2013-11-28T08:48:26.6594507,RequestCarSpawnPoint,Participant20
+2013-11-28T08:48:26.6594507,OnCarTaken,120
+2013-11-28T08:48:26.7842475,ReplyTrainSeat,Player: Participant09| Spawn point: 10
+2013-11-28T08:48:27.4706299,ReplyCarSpawnPoint,Player: Participant20| Spawn point: 7
+2013-11-28T08:48:27.4706299,ReplyCarSpawnPoint,Player: Participant20| Spawn point: 8
+2013-11-28T08:48:29.9665659,RequestTrainSeat,Participant40
+2013-11-28T08:48:30.4657531,ReplyTrainSeat,Player: Participant40| Spawn point: 11
+2013-11-28T08:48:36.0816091,OnBridgeTouched,\N
+2013-11-28T08:48:36.6431947,RequestHelicopterSeat,Participant43
+2013-11-28T08:48:37.1423819,ReplyHelicopterSeat,Player: Participant43| Granted: True
+2013-11-28T08:48:43.7566123,OnBridgeTouched,\N
+2013-11-28T08:48:45.1917755,RequestHelicopterSeat,Participant01
+2013-11-28T08:48:45.7533611,ReplyHelicopterSeat,Player: Participant01| Granted: True
+2013-11-28T08:48:46.5021419,OnBridgeCrossed,\N
+2013-11-28T08:48:47.1885243,OnBridgeBroke,\N
+2013-11-28T08:48:47.9997035,OnBridgeTouched,\N
+2013-11-28T08:48:49.1228747,RequestHelicopterSeat,Participant44
+2013-11-28T08:48:49.6220619,ReplyHelicopterSeat,Player: Participant44| Granted: True
+2013-11-28T08:48:54.3643403,RequestTrainSeat,Participant48
+2013-11-28T08:48:54.5515355,ReplyTrainSeat,Player: Participant48| Spawn point: 12
+2013-11-28T08:48:59.8553995,RequestHelicopterSeat,Participant11
+2013-11-28T08:48:59.9801963,ReplyHelicopterSeat,Player: Participant11| Granted: True
+2013-11-28T08:49:01.1033675,RequestTrainSeat,Participant19
+2013-11-28T08:49:01.2905627,ReplyTrainSeat,Player: Participant19| Spawn point: 13
+2013-11-28T08:49:01.4777579,RequestHelicopterSeat,Participant37
+2013-11-28T08:49:01.6025547,ReplyHelicopterSeat,Player: Participant37| Granted: True
+2013-11-28T08:49:06.8440203,RequestTrainSeat,Participant02
+2013-11-28T08:49:06.9064187,ReplyTrainSeat,Player: Participant02| Spawn point: 14
+2013-11-28T08:49:08.8407691,RequestHelicopterSeat,Participant06
+2013-11-28T08:49:08.9031675,ReplyHelicopterSeat,Player: Participant06| Granted: True
+2013-11-28T08:49:17.0149595,RequestHelicopterSeat,Participant33
+2013-11-28T08:49:17.0149595,ReplyHelicopterSeat,Player: Participant33| Granted: True
+2013-11-28T08:49:17.5141467,RequestTrainSeat,Participant17
+2013-11-28T08:49:17.5141467,ReplyTrainSeat,Player: Participant17| Spawn point: -1
+2013-11-28T08:49:19.7604891,RequestHelicopterSeat,Participant45
+2013-11-28T08:49:19.7604891,ReplyHelicopterSeat,Player: Participant45| Granted: True
+2013-11-28T08:49:21.5076443,RequestHelicopterSeat,Participant32
+2013-11-28T08:49:21.5700427,ReplyHelicopterSeat,Player: Participant32| Granted: True
+2013-11-28T08:49:22.3812219,RequestTrainSeat,Participant46
+2013-11-28T08:49:22.4436203,ReplyTrainSeat,Player: Participant46| Spawn point: -1
+2013-11-28T08:49:23.3171979,RequestTrainSeat,Participant42
+2013-11-28T08:49:23.3795963,ReplyTrainSeat,Player: Participant42| Spawn point: -1
+2013-11-28T08:49:25.0643531,RequestHelicopterSeat,Participant18
+2013-11-28T08:49:25.1267515,ReplyHelicopterSeat,Player: Participant18| Granted: True
+2013-11-28T08:49:30.4930139,RequestHelicopterSeat,Participant00
+2013-11-28T08:49:30.4930139,ReplyHelicopterSeat,Player: Participant00| Granted: True
+2013-11-28T08:49:39.0415947,RequestTrainSeat,Participant17
+2013-11-28T08:49:39.1039931,ReplyTrainSeat,Player: Participant17| Spawn point: -1
+2013-11-28T08:49:39.9151723,RequestHelicopterSeat,Participant38
+2013-11-28T08:49:39.9775707,ReplyHelicopterSeat,Player: Participant38| Granted: True
+2013-11-28T08:49:42.9102955,OnTrainDeparted,\N
+2013-11-28T08:49:47.1533867,RequestHelicopterSeat,Participant10
+2013-11-28T08:49:47.4653787,ReplyHelicopterSeat,Player: Participant10| Granted: True
+2013-11-28T08:49:51.8956651,RequestHelicopterSeat,Participant35
+2013-11-28T08:49:52.2700555,ReplyHelicopterSeat,Player: Participant35| Granted: True
+2013-11-28T08:49:55.3275771,RequestHelicopterSeat,Participant16
+2013-11-28T08:49:55.7019675,ReplyHelicopterSeat,Player: Participant16| Granted: True
+2013-11-28T08:49:57.1995291,RequestHelicopterSeat,Participant07
+2013-11-28T08:49:57.4491227,ReplyHelicopterSeat,Player: Participant07| Granted: True
+2013-11-28T08:50:02.3785963,RequestHelicopterSeat,Participant34
+2013-11-28T08:50:02.6905883,ReplyHelicopterSeat,Player: Participant34| Granted: True
+2013-11-28T08:50:12.9239259,OnTsunamiLaunched,Wave: 1| Delay: 40| Duration: 25| WaterDelay: 20
+2013-11-28T08:50:14.4838859,RequestHelicopterSeat,Participant20
+2013-11-28T08:50:14.5462843,ReplyHelicopterSeat,Player: Participant20| Granted: True
+2013-11-28T08:50:53.1084955,RequestHelicopterSeat,Participant41
+2013-11-28T08:50:53.1708939,ReplyHelicopterSeat,Player: Participant41| Granted: True
+2013-11-28T08:50:53.4828859,RequestHelicopterSeat,Participant19
+2013-11-28T08:50:53.5452843,ReplyHelicopterSeat,Player: Participant19| Granted: True
+2013-11-28T08:50:53.6076827,RequestHelicopterSeat,Participant02
+2013-11-28T08:50:53.6700811,ReplyHelicopterSeat,Player: Participant02| Granted: True
+2013-11-28T08:50:54.3564635,RequestHelicopterSeat,Participant47
+2013-11-28T08:50:54.3564635,ReplyHelicopterSeat,Player: Participant47| Granted: True
+2013-11-28T08:50:54.5436587,RequestHelicopterSeat,Participant13
+2013-11-28T08:50:54.5436587,RequestHelicopterSeat,Participant22
+2013-11-28T08:50:54.5436587,ReplyHelicopterSeat,Player: Participant13| Granted: True
+2013-11-28T08:50:54.5436587,ReplyHelicopterSeat,Player: Participant22| Granted: True
+2013-11-28T08:50:54.7308539,RequestHelicopterSeat,Participant12
+2013-11-28T08:50:54.7932523,ReplyHelicopterSeat,Player: Participant12| Granted: True
+2013-11-28T08:50:54.7932523,RequestHelicopterSeat,Participant09
+2013-11-28T08:50:54.8556507,ReplyHelicopterSeat,Player: Participant09| Granted: True
+2013-11-28T08:50:54.9180491,RequestHelicopterSeat,Participant40
+2013-11-28T08:50:54.9804475,ReplyHelicopterSeat,Player: Participant40| Granted: True
+2013-11-28T08:50:55.1052443,RequestHelicopterSeat,Participant15
+2013-11-28T08:50:55.1676427,ReplyHelicopterSeat,Player: Participant15| Granted: True
+2013-11-28T08:50:55.4172363,RequestHelicopterSeat,Participant48
+2013-11-28T08:50:55.4796347,ReplyHelicopterSeat,Player: Participant48| Granted: True
+2013-11-28T08:50:55.5420331,RequestHelicopterSeat,Participant21
+2013-11-28T08:50:55.5420331,ReplyHelicopterSeat,Player: Participant21| Granted: True
+2013-11-28T08:50:56.2284155,RequestHelicopterSeat,Participant04
+2013-11-28T08:50:56.2908139,ReplyHelicopterSeat,Player: Participant04| Granted: True
+2013-11-28T08:50:56.5404075,RequestHelicopterSeat,Participant03
+2013-11-28T08:50:56.6028059,ReplyHelicopterSeat,Player: Participant03| Granted: True
+2013-11-28T08:50:59.4731323,RequestHelicopterSeat,Participant36
+2013-11-28T08:50:59.5355307,ReplyHelicopterSeat,Player: Participant36| Granted: True
+2013-11-28T08:51:17.9430587,OnTsunamiLaunched,Wave: 2| Delay: 40| Duration: 20| WaterDelay: 15
+2013-11-28T08:51:47.9566891,OnHelicopterDeparted,\N
