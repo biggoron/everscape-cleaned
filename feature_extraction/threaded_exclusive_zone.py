@@ -76,12 +76,12 @@ class TimeFinder():
             # a seat. In the scope of this analysis we
             # consider they made the choice to go to the
             # station.
-            logs = hp.train_logs(session_id)
+            logs = hp.train_logs(session_index)
             # Getting the hash containing the choices of the
             # avatars in the session.
             avatars_choice = choice_hashes[session]
             # Usefull to retrieve the index of the avatars
-            avatar_array = Avatar_of_session(session_index)
+            avatar_array = hp.Avatar_of_session(session_index)
             for avatar in avatars_choice:
             # Iterating in this hash
                 # Usefull to call the method from helpers file
@@ -98,12 +98,12 @@ class TimeFinder():
                     hp.earthquake_time(session_index)
                 if (avatars_choice[avatar] == 1 or \
                     avatars_choice[avatar] == 2) and\
-                    # Carefull, some people who took a car
-                    # went first to the train station. We
-                    # don't want to take those people into
-                    # account to build a tree against which we
-                    # will look up trajectories.
                     not hp.requested_train(logs, avatar):
+                # Carefull, some people who took a car
+                # went first to the train station. We
+                # don't want to take those people into
+                # account to build a tree against which we
+                # will look up trajectories.
                     for point in trajectory:
                         if point[3] > time_earthquake:
                         # Only the part of trajectory after
@@ -441,8 +441,6 @@ class TimeFinder():
             if li > le:
                 car_ratio_mem1 = \
                 (car_ratio_mem2 + car_ratio)/2.0
-            car_ratio_hist[0].append(time_mem2)
-            car_ratio_hist[1].append(car_ratio_mem2)
             if car_ratio_mem2 > 0.90 and switch_token != 1:
             # seems to have choosen car
                 choices.append([time_mem2, 1])

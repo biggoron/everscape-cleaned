@@ -1,7 +1,7 @@
 import sqlite3 as lite
 import time
 import sys
-from helper import hp
+import helpers as hp
 from threaded_exclusive_zone import *
 from multiprocessing import Process, Queue, Lock
 
@@ -31,25 +31,40 @@ with con :
         );\
     ")
 
-def get_time(session, avatar, tree, times):
-    returned_array = finder.time(session, avatar, tree)
+def get_time(session_index, avatar_index, avatar, tree, times):
+# Gets the time of decision for avatar in session using the
+# tree number tree. Stores it in times
+    # Ask the finder to find the time with optimized
+    # parameters
+    returned_array = finder.time(\
+        session_index, avatar_index, tree\
+    )
     if len(returned_array) == 0:
-        print("  retry %d, %d on %d" %\
+    # if nothing found try "safe" mode.
+        print("  retry %d, %d on %d" % \
             (session, avatar, tree))
-        returned_array = finder.time(session, avatar, tree, reduc_traj = 0)
+        returned_array = finder.time(\
+        session_index, avatar_index, tree, reduc_traj = 0\
+        )
     if len(returned_array) == 0:
-        print("  retried %d, %d on %d in vain"%\
-            (session, avatar, tree))
+    # if still nothing found put alert
+        print("  retried %d, %d on %d i n vain"%\
+            (session_index, avatar_index, tree))
     token = 0
     for couple in returned_array:
+    # stores result in shared memory
         token += 1
         decision = couple[1]
         time_decision = couple[0]
-        times.put([session, avatar, time_decision, decision])
+        times.put([\
+            session_index, avatar, time_decision, decision])
     if token == 0:
-        print("  alert session %d avatar %d"%(session, avatar))
+        print("  alert session %d avatar %d"%(\
+            session_index, avatar_index))
 
 def finished(process):
+# Helper to see if a process is finished. I put -1 if the
+# process was not initiated
     if process == -1:
         return True
     if not process.is_alive():
@@ -84,14 +99,16 @@ for row in rows:
 # arguments
 arguments = []
 for session in choice_hashes:
-    session_id = sessions.index(session)
+    session_index = sessions.index(session)
     avatars_choice = choice_hashes[session]
+    avatar_array = hp.Avatar_of_session(session_index)
     for avatar in avatars_choice:
         if avatars_choice[avatar] == 0:
         # If an avatar didn't made a choice, there is no
         # decision time to compute.
             continue
-        arguments.append([session_id, avatar])
+        avatar_index = avatar_array.index(avatar)
+        arguments.append([session_index, avatar_index, avatar])
 # number of multiprocesses to use to make computation. 32 is
 # rather good on my computer
 nb = 32
@@ -122,7 +139,12 @@ while not len(arguments) == 0:
             argument = arguments.pop()
             argument.append(cnt)
             p[cnt] = Process(target=get_time,\
-                args = (argument[0], argument[1], argument[2], times))
+                args = (\
+                    argument[0],\
+                    argument[1],\
+                    argument[2],\
+                    argument[3],\
+                    times))
             # run the subprocess
             p[cnt].start()
         cnt += 1
@@ -132,7 +154,6 @@ while not len(arguments) == 0:
 for process in p:
     if process != -1:
         process.join()
-break
 
 # Time to store the results
 con = lite.connect('everscape.db')
@@ -145,7 +166,7 @@ with con :
         cur.execute("\
             INSERT INTO Time_Choice VALUES \
             (%d, %d, %d, %d);" % \
-            (   line[0],
+            (   sessions[line[0]],
                 line[1],\
                 line[2],\
                  line[3]\
