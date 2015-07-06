@@ -83,6 +83,9 @@ class RoadClassifier:
         global_tokenB = True
         # number of consecutive point in a path to infer the
         # path
+        avatar_list = hp.Avatar_of_session(session_id)
+        print('session %d, avatar %d' % (\
+                sessions[session_id], avatar_list[avatar_no]))
         print('before: %d' % before)
         print('after: %d' % after)
         print('max time: %d' % traj[3][-1])

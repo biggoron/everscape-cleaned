@@ -102,18 +102,18 @@ for s in csv_files:
                     # A car has been picked up
                         ts = ts_builder(row[0], minute, second)
                         cur_avatar = sp.player_str(row[2])
-                    if avatar_hash[cur_avatar] != ts:
-                    # such conditions are used to erase
-                    # duplicates in the original data
-                        cur.execute('INSERT INTO CarSpawns\
-                        VALUES (%d, %d, %d, %d)' % ( \
-                                    session_id, \
-                                    earthquake_token, \
-                                    ts, \
-                                    cur_avatar))
-                    # we take into memory the car spawn
-                    # because there can be some duplicates.
-                    avatar_hash[cur_avatar] = ts
+                        if avatar_hash[cur_avatar] != ts:
+                        # such conditions are used to erase
+                        # duplicates in the original data
+                            cur.execute('INSERT INTO CarSpawns\
+                            VALUES (%d, %d, %d, %d)' % ( \
+                                        session_id, \
+                                        earthquake_token, \
+                                        ts, \
+                                        cur_avatar))
+                        # we take into memory the car spawn
+                        # because there can be some duplicates.
+                        avatar_hash[cur_avatar] = ts
                     if row[1] == "OnBridgeCrossed":
                         ts = ts_builder(row[0], minute, second)
                         if bridge_cross_memory != ts:
