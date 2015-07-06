@@ -1,6 +1,5 @@
-mysql_data/everscape.sql
-mysql_data/everscape-everscape.sql
-mysql_data/everscape-logging.sql
-mysql_data/everscape-work.sql
-mysql_data/everscape-zagreb.sql
-
+./mysql_data/everscape.sql
+./mysql_data/everscape-everscape.sql
+./mysql_data/everscape-logging.sql
+./mysql_data/everscape-work.sql
+./mysql_data/everscape-zagreb.sql
