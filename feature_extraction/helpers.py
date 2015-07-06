@@ -3,6 +3,7 @@
 
 import math
 import binascii
+import matplotlib.pyplot as plt
 import sqlite3 as lite
 from mpl_toolkits.mplot3d import Axes3D
 

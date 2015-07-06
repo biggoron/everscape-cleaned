@@ -9,7 +9,6 @@
 
 
 import sqlite3 as lite
-import matplotlib.pyplot as plt
 from scipy import spatial as sp
 import helpers as hp
 
