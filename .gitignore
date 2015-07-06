@@ -1,6 +1,2 @@
-*everscape.sql
-*everscape-everscape.sql
-*everscape-logging.sql
-*everscape-work.sql
-*everscape-zagreb.sql
+mysql_data/everscape*
 *.pyc
