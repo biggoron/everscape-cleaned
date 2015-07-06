@@ -1,0 +1,37 @@
+2014-01-30T08:09:11.8444000,RequestCarSpawnPoint,Participant4
+2014-01-30T08:09:11.8444000,OnCarTaken,106
+2014-01-30T08:09:11.9068000,ReplyCarSpawnPoint,Player: Participant4| Spawn point: 0
+2014-01-30T08:09:37.1164000,RequestCarSpawnPoint,Participant01
+2014-01-30T08:09:37.1164000,OnCarTaken,110
+2014-01-30T08:09:37.1164000,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 1
+2014-01-30T08:10:13.1212000,RequestCarSpawnPoint,Participant3
+2014-01-30T08:10:13.1836000,OnCarTaken,106
+2014-01-30T08:10:13.1836000,ReplyCarSpawnPoint,Player: Participant3| Spawn point: 2
+2014-01-30T08:10:56.5516000,OnArrivedAtConcert,\N
+2014-01-30T08:11:56.6428000,OnForceAssistConcert,\N
+2014-01-30T08:12:44.4412000,OnForceAssistConcert,\N
+2014-01-30T08:12:51.3676000,OnEarthquakeStarted,Train: 120| Helicopter: 245| Last Tsunami: 265
+2014-01-30T08:14:19.4140000,OnTsunamiLaunched,Wave: 0| Delay: 120| Duration: 30| WaterDelay: 25
+2014-01-30T08:14:31.3324000,RequestCarSpawnPoint,Participant01
+2014-01-30T08:14:31.3324000,OnCarTaken,108
+2014-01-30T08:14:31.3948000,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 0
+2014-01-30T08:14:40.6924000,RequestCarSpawnPoint,Participant4
+2014-01-30T08:14:40.6924000,OnCarTaken,122
+2014-01-30T08:14:40.7548000,ReplyCarSpawnPoint,Player: Participant4| Spawn point: 1
+2014-01-30T08:14:46.5580000,RequestCarSpawnPoint,Participant3
+2014-01-30T08:14:46.5580000,OnCarTaken,123
+2014-01-30T08:14:46.6204000,ReplyCarSpawnPoint,Player: Participant3| Spawn point: 2
+2014-01-30T08:15:00.6604000,OnBridgeTouched,\N
+2014-01-30T08:15:11.2684000,OnBridgeCrossed,\N
+2014-01-30T08:15:54.2620000,RequestHelicopterSeat,Participant01
+2014-01-30T08:15:54.3244000,ReplyHelicopterSeat,Player: Participant01| Granted: True
+2014-01-30T08:15:55.5724000,RequestTrainSeat,Participant02
+2014-01-30T08:15:55.6348000,ReplyTrainSeat,Player: Participant02| Spawn point: 0
+2014-01-30T08:16:19.4092000,OnTrainDeparted,\N
+2014-01-30T08:16:26.3356000,RequestHelicopterSeat,Participant3
+2014-01-30T08:16:26.3980000,ReplyHelicopterSeat,Player: Participant3| Granted: True
+2014-01-30T08:16:30.3916000,RequestHelicopterSeat,Participant4
+2014-01-30T08:16:30.3916000,ReplyHelicopterSeat,Player: Participant4| Granted: True
+2014-01-30T08:16:49.4236000,OnTsunamiLaunched,Wave: 1| Delay: 40| Duration: 25| WaterDelay: 20
+2014-01-30T08:17:54.4444000,OnTsunamiLaunched,Wave: 2| Delay: 40| Duration: 20| WaterDelay: 15
+2014-01-30T08:18:24.3964000,OnHelicopterDeparted,\N

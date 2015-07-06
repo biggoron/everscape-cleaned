@@ -1,0 +1,17 @@
+2013-02-12T14:11:44.8209373,RequestCarSpawnPoint,Participant01
+2013-02-12T14:11:44.8209373,OnCarTaken,106
+2013-02-12T14:11:44.8209373,RequestCarSpawnPoint,Participant01
+2013-02-12T14:11:44.8209373,OnCarTaken,106
+2013-02-12T14:11:44.8209373,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 0
+2013-02-12T14:11:44.8209373,ReplyCarSpawnPoint,Player: Participant01| Spawn point: 1
+2013-02-12T14:12:20.9526217,OnForceAssistConcert,\N
+2013-02-12T14:12:48.9250354,OnEarthquakeStarted,Train: 120| Helicopter: 245| Last Tsunami: 265
+2013-02-12T14:13:39.6123595,RequestTrainSeat,Participant01
+2013-02-12T14:13:39.6123595,ReplyTrainSeat,Player: Participant01| Spawn point: 0
+2013-02-12T14:14:31.9845808,OnTsunamiLaunched,Wave: 0| Delay: 120| Duration: 30| WaterDelay: 25
+2013-02-12T14:16:31.9399009,OnTrainDeparted,\N
+2013-02-12T14:17:01.9560325,OnTsunamiLaunched,Wave: 1| Delay: 40| Duration: 25| WaterDelay: 20
+2013-02-12T14:17:57.1988194,RequestHelicopterSeat,Participant01
+2013-02-12T14:17:57.3236266,ReplyHelicopterSeat,Player: Participant01| Granted: True
+2013-02-12T14:18:06.9337810,OnTsunamiLaunched,Wave: 2| Delay: 40| Duration: 20| WaterDelay: 15
+2013-02-12T14:18:36.9655135,OnHelicopterDeparted,\N
