@@ -1,4 +1,6 @@
 EVERSCAPE PROJECT
+-- Maintained on git under the name everscape-cleaned --
+-- attention, sql data files are not maintained (too heavy) --
 -------------------------------------------------------------------------------
 
 The aims of this part of the project is:
@@ -38,6 +40,9 @@ The project folder contains subfolders, grouping files by function:
     purpose of each one of the scripts.
     This folder is here only to give a complete overview on the work done on
     everscape.
+
+    visualization/ contains all the scripts used to visualize data. (usefull for 
+    testing). You will also find a file documenting these scripts.
 
     Finally, resources/ contains all the figures obtained from scripts, further
     explanations on the overall process and possible continuations for the

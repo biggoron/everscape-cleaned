@@ -3,7 +3,7 @@ Original data in sql script everscape.sql script
  -> Deletes root user
  -> need a client/server infrastructure: painfull for Data
  	Analysis
- -> On the database is built, if modification are done, it is
+ -> Once the database is built, if modification are done, it is
  	difficult to share database
  -> Plenty of useless and redundant data
 
@@ -88,3 +88,6 @@ the necessary actions to export data for the simultation
 session that happened on the timestamp YYMMDD_HHMMSS.
 
 This steps yields the csv files for 23 sessions (112 files)
+-----------------------------------------------------------
+
+ATTENTION: sql data files are not maintained on git: too heavy
